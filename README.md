@@ -1,5 +1,3 @@
-# How do I approach designing software?
-  
 # What new design skills has your work on the project helped you to craft?
   During this project I was able to gain a considerable amount of experience working with OpenGL, improve my texture creation pipeline, and gain additional knowledge of C++.
 # What design process did you follow for your project work?
